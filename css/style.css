@@ -88,7 +88,7 @@ p::first-line {
 
 p:nth-child(3) {
     background: #e7f0ce;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 ol, ul, li, li a { 
@@ -112,7 +112,7 @@ a:active { color: #000000; }
 
 special {
     font-family: "alize",serif;
-    font: normal 95pt/1.5em, alize, serif;
+    font: normal 95pt/1.5em, alize, serif !important;
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
