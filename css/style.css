@@ -91,7 +91,7 @@ p:nth-child(3) {
     padding-top: 10px;
 }
 
-ol, ul { 
+ol, ul, li, li a { 
     font-family: "source-code-pro",sans-serif;
     font: normal 14pt/1.5em, source-code-pro, sans-serif;
     letter-spacing: 2px;
