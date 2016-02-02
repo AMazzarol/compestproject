@@ -50,7 +50,66 @@ img {
     display: block;
 }
 
-body {
-    font-size: 16px;
-    line-height: 23px;
+
+  
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font: normal 38pt/1.5em, cronos-pro-display,sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #333333;
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 0.75em;
+}
+
+h2 {
+    font-size: 0.7em;
+    line-height: 2.14em;
+}
+
+p { 
+    font: normal 16pt/1.5em, merriweather, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    text-indent: 3em;
+}
+
+p::first-line {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p:nth-child(3) {
+    background: #e7f0ce;
+    padding: 10px;
+}
+
+ol, ul { 
+    font: normal 14pt/1.5em, source-code-pro, sans-serif;
+    letter-spacing: 2px;
+    color: #333333;
+}
+
+a {
+    font: normal 16pt/1.5em, merriweather, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    text-indent: 3em;
+}
+
+a:link { color: #666666; text-decoration: none; }
+a:visited { color: #333333; }
+a:hover { text-decoration: underline; }
+a:active { color: #000000; }
+
+special {
+    font: normal 18pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    text-indent: 3em;
 }
