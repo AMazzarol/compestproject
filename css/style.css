@@ -125,3 +125,11 @@ special {
     color: #333333;
     text-indent: 3em;
 }
+
+strong {
+    font-family: "alize",serif;
+    font: normal 38pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    text-indent: 3em;
+}
