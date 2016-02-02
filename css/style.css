@@ -112,7 +112,7 @@ a:active { color: #000000; }
 
 special {
     font-family: "alize",serif;
-    font: normal 95pt/1.5em, alize, serif !important;
+    font: normal 4em/1.5em, alize, serif;
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
