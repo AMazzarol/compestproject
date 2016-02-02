@@ -79,6 +79,7 @@ p {
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
+    font-weight: 500;
 }
 
 p::first-line {
