@@ -15,45 +15,6 @@ body {
   max-height: 400px !important;
 }
 
-#custom-bootstrap-menu.navbar-default .navbar-brand {
-    color: rgba(119, 119, 119, 1);
-}
-#custom-bootstrap-menu.navbar-default {
-    font-size: 16px;
-    background-color: rgba(51, 51, 51, 1);
-    border-width: 0px;
-    border-radius: 0px;
-}
-#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
-    color: rgba(214, 206, 0, 1);
-    background-color: rgba(86, 86, 86, 1);
-}
-#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
-#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
-    color: rgba(214, 206, 0, 1);
-    background-color: #333333;
-}
-#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
-#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
-#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
-    color: rgba(51, 51, 51, 1);
-    background-color: rgba(67, 172, 232, 1);
-}
-#custom-bootstrap-menu.navbar-default .navbar-toggle {
-    border-color: #43ace8;
-}
-#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
-#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
-    background-color: #43ace8;
-}
-#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
-    background-color: #43ace8;
-}
-#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
-#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
-    background-color: #333333;
-}
-
 
 /*centers the logo and title inside the BANNER ROW*/
 .centerbanner {
