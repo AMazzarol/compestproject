@@ -3,6 +3,10 @@ img {
     height: auto;
 }
 
+body {
+    background-color: #43ace8;
+}
+
 #custom-bootstrap-menu.navbar-default .navbar-brand {
     color: rgba(119, 119, 119, 1);
 }
@@ -79,7 +83,6 @@ p {
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
-    font-weight: 500;
 }
 
 p::first-line {
