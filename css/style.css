@@ -62,7 +62,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: "cronos-pro-display",sans-serif;
     font: normal 38pt/1.5em, cronos-pro-display,sans-serif;
-    font-weight: 800;
+    font-weight: 900;
     letter-spacing: 2px;
     color: #333333;
 }
@@ -137,7 +137,7 @@ special {
 
 strong {
     font-family: "alize",serif;
-    font: normal 95pt/1.5em, alize, serif;
+    font: normal 38pt/1.5em, alize, serif;
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
