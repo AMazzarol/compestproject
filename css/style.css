@@ -4,7 +4,7 @@ img {
 }
 
 body {
-    background-color: #43ace8;
+    background-color: #e0e0e0;
 }
 
 #custom-bootstrap-menu.navbar-default .navbar-brand {
@@ -81,7 +81,7 @@ p {
     font-family: "merriweather",serif;
     font: normal 16pt/1.5em, merriweather, serif;
     letter-spacing: 2px;
-    color: #333333;
+    color: #1a445b;
     text-indent: 3em;
 }
 
@@ -91,7 +91,7 @@ p::first-line {
 }
 
 p:nth-child(3) {
-    background: #e7f0ce;
+    background: #d6ce00;
     padding: 10px;
 }
 
