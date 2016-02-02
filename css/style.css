@@ -110,6 +110,14 @@ a:visited { color: #333333; }
 a:hover { text-decoration: underline; }
 a:active { color: #000000; }
 
+blockquote {
+    font-family: "alize",serif;
+    font: normal 38pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    text-indent: 3em;
+}
+
 special {
     font-family: "alize",serif;
     font: normal 4em/1.5em, alize, serif;
