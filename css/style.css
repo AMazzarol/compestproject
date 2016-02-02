@@ -1,169 +1,43 @@
-
-
-			img {
-					max-width: 100%;
-					height: auto;
-}
-			h1 {
-				font-family: "cronos-pro-display",sans-serif;
-  				color: #333333;
-}
-			p {
-				font-family: "merriweather",serif;
-				color: #333333;
-}
-			p1 {
-				font-family: "source-code-pro",sans-serif;
-				color: #e0e0e0  !important;
-				    width:75%;
-					padding-left: 25%;
-    text-align:center;
-	display: block;
-	-webkit-user-select: none; /* Chrome/Safari */        
--moz-user-select: none; /* Firefox */
--ms-user-select: none; /* IE10+ */
+img {
+    max-width: 100%;
+    height: auto;
 }
 
-
-
-
-
-			p2 {
-				font-family: "alize",serif;
-				color: #333333;
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
 }
-			li {
-				color: #e0e0e0;
-				text-align: center;
-				font-size: larger;
-				padding-right: 50px;
-				padding-bottom: 2px;
-				
-			}
-			address {
-				color: #e0e0e0;
-			}
-			h3 {
-				color: #e0e0e0
-			}
-			dd {
-				color: #e0e0e0;
-			}
-			dt {
-				color: #e0e0e0
-			}
-
-.nav-tabs{
-  background-color:#1a445b;
-  	border: 0px;
+#custom-bootstrap-menu.navbar-default {
+    font-size: 16px;
+    background-color: rgba(51, 51, 51, 1);
+    border-width: 0px;
+    border-radius: 0px;
 }
-.tab-content{
-    background-color:#1a445b;
-    color: #e0e0e0;
-    padding:5px;
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(214, 206, 0, 1);
+    background-color: rgba(86, 86, 86, 1);
 }
-.nav-tabs > li > a{
-  border: medium none;
-  	outline: 0;
-	  	color: #e0e0e0;
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(214, 206, 0, 1);
+    background-color: rgba(224, 224, 224, 1);
 }
-.nav-tabs > li > a:hover{
-  background-color: #1a445b !important;
-    border: medium none;
-    color: #e0e0e0;
-	
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(67, 172, 232, 1);
 }
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:focus,
-.nav-tabs > li.active > a:hover{
-    background-color: #1a445b !important;
-		color: #e0e0e0;
-		border: 0px;
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #43ace8;
 }
-
-			.jumbotron {
-				background-color: transparent !important;
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #43ace8;
 }
-			body {
-				background-color: #333333;
-				padding-top: 50px;
-				      position: relative; 
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #43ace8;
 }
-  #HOME {padding-top:25px;}
-  #ABOUT {padding-top:50px;}
-  #SERVICES {padding-top:50px;}
-  #PESTS {padding-top:50px;}
-  #CONTACT {padding-top:50px;}
-  
-.navbar {
-    margin-bottom: 0;
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #333333;
-    z-index: 9999;
-    border: 0;
-	font-family: "source-code-pro",sans-serif !important;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
-    letter-spacing: 2px;
-    border-radius: 0;
-}
-
-.nav .active a { background: transparent!important;}
-
-
-.navbar li a, .navbar .navbar-brand {
-    color: #d6ce00 !important;
-	transition: transform 200ms;
-	outline: 0;
-}
-
-@media (min-width: 768px) { .navbar-nav li a:hover, .navbar-nav li.active a {
-	transform: translate(0px,-10px);
-} }
-
-@media(max-width:992px){
-.nav>li>a {
-font-size: 10px;
-    }
-}
-
-.navbar-default .navbar-toggle {
-    border-color: transparent;
-    color: #d6ce00 !important;
-}
-
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
-}
-
-.navbar .navbar-collapse {
-  text-align: center;
-  padding-left: 64px;
-}
-
-span.glyphicon-ok {
-    font-size: 5em;
-		color: #43ace8;
-		padding-left: 40%;
-		padding-top: 5%;
-		padding-bottom: 5%;
-}
-
-span.glyphicon-tree-deciduous {
-    font-size: 15em;
-	color: #43ace8;
-	margin: 25%;
-}
-
-span.glyphicon-home {
-    font-size: 15em;
-		color: #43ace8;
-	margin: 25%;
-}
-
-span.glyphicon-heart {
-    font-size: 15em;
-		color: #43ace8;
-	margin: 25%;
 }
