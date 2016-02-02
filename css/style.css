@@ -31,7 +31,7 @@ body {
 #custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
 #custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
     color: rgba(214, 206, 0, 1);
-    background-color: rgba(224, 224, 224, 1);
+    background-color: #969696;
 }
 #custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
 #custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
@@ -129,7 +129,7 @@ blockquote {
     font-family: "alize",serif;
     font: normal 38pt/1.5em, alize, serif;
     letter-spacing: 2px;
-    color: #333333;
+    color: #43ace8;
     text-indent: 3em;
     font-weight: 900;
 }
@@ -138,7 +138,7 @@ special {
     font-family: "alize",serif;
     font: normal 24pt/1.5em, alize, serif;
     letter-spacing: 2px;
-    color: #333333;
+    color: #43ace8;
     text-indent: 3em;
     font-weight: 600;
 }
