@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="635"
-   height="540"
-   viewBox="0 0 508 432.00001"
+   width="817.20001pt"
+   height="105pt"
+   viewBox="0 0 817.20001 105"
    version="1.1"
    id="svg3343"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="title.svg">
   <metadata
      id="metadata3357">
     <rdf:RDF>
@@ -41,13 +41,12 @@
      id="namedview3355"
      showgrid="false"
      inkscape:zoom="0.797442"
-     inkscape:cx="445.23596"
-     inkscape:cy="263.30255"
+     inkscape:cx="566.1295"
+     inkscape:cy="325.30722"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3343"
-     units="px" />
+     inkscape:current-layer="svg3343" />
   <defs
      id="defs3345">
     <image
@@ -73,7 +72,7 @@
   </defs>
   <g
      id="surface25473"
-     transform="translate(-157.48125,-3.9830151)">
+     transform="translate(0,-436.67999)">
     <use
        xlink:href="#image25478"
        mask="url(#mask0)"
@@ -86,29 +85,9 @@
   </g>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-     id="rect3338"
-     width="1269.7812"
-     height="140.45625"
-     x="-226.29062"
-     y="432.70935" />
-  <g
-     transform="translate(-157.48125,-3.9830151)"
-     id="g3340">
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       id="use3342"
-       transform="matrix(0.24,0,0,0.24,0,7.3e-6)"
-       mask="url(#mask0)"
-       xlink:href="#image25478" />
-  </g>
-  <rect
-     y="432.70935"
-     x="-226.29062"
-     height="140.45625"
-     width="1269.7812"
-     id="rect3344"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+     id="rect3340"
+     width="1014.243"
+     height="448.43387"
+     x="-66.211716"
+     y="-452.78351" />
 </svg>

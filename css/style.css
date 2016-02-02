@@ -41,3 +41,11 @@ img {
 #custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #333333;
 }
+
+
+/*centers the logo and title inside the BANNER ROW*/
+.centerbanner {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
