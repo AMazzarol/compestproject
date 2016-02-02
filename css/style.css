@@ -83,7 +83,7 @@ p {
     letter-spacing: 2px;
     color: #1a445b;
     text-indent: 3em;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 p::first-line {
@@ -128,18 +128,9 @@ blockquote {
 
 special {
     font-family: "alize",serif;
-    font: normal 4em/1.5em, alize, serif;
+    font: normal 24pt/1.5em, alize, serif;
     letter-spacing: 2px;
     color: #333333;
     text-indent: 3em;
     font-weight: 600;
-}
-
-strong {
-    font-family: "alize",serif;
-    font: normal 38pt/1.5em, alize, serif;
-    letter-spacing: 2px;
-    color: #333333;
-    text-indent: 3em;
-    font-weight: 800;
 }
