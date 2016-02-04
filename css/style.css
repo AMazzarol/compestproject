@@ -192,7 +192,7 @@ blockquote {
 
 special {
     font-family: "alize",serif;
-    font: normal 24pt/1.5em, alize, serif;
+    font: normal 36pt/1.5em, alize, serif;
     letter-spacing: 2px;
     color: darkblue;
     text-indent: 3em!important;
@@ -202,11 +202,11 @@ special {
 
 speciali {
     font-family: "alize",serif;
-    font: normal 24pt/1.5em, alize, serif;
+    font: normal 34pt/1.5em, alize, serif;
     letter-spacing: 2px;
     color: #1a445b;
     text-indent: 3em;
-    font-weight: 600;
+    font-weight: 700;
     padding: 10px;
 }
 
