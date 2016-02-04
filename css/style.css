@@ -30,10 +30,10 @@ footer {
   border-color: orange;
   text-indent: 0em;
   font-family: "source-code-pro",sans-serif;
-  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  font: normal 20pt/1.5em, source-code-pro, sans-serif;
   letter-spacing: 2px;
   color: #1a445b !important;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   margin-top: 70px;
 }
@@ -44,10 +44,10 @@ footer {
   border-color: orange;
   text-indent: 0em;
   font-family: "source-code-pro",sans-serif;
-  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  font: normal 20pt/1.5em, source-code-pro, sans-serif;
   letter-spacing: 2px;
   color: #1a445b !important;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   margin-top: 395px;
 }
@@ -58,10 +58,10 @@ footer {
   border-color: orange;
   text-indent: 0em;
   font-family: "source-code-pro",sans-serif;
-  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  font: normal 20pt/1.5em, source-code-pro, sans-serif;
   letter-spacing: 2px;
   color: #1a445b !important;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   margin-top: 220px;
 }
@@ -198,6 +198,7 @@ special {
     text-indent: 3em!important;
     font-weight: 600;
     padding: 10px;
+    background-color: ghostwhite;
 }
 
 speciali {
@@ -208,6 +209,7 @@ speciali {
     text-indent: 3em;
     font-weight: 700;
     padding: 10px;
+    background-color: ghostwhite;
 }
 
 .indent-text {
