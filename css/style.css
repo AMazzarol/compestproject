@@ -1,0 +1,225 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+        background-color: #e0e0e0;
+}
+
+footer {
+	text-align: center;
+}
+
+.tales {
+  width: 100%;
+}
+
+
+
+.fa {
+  color:#fff;
+  font-size:36px;
+}
+
+
+.styled-button {
+  background-color: orange;
+  border-radius: 0px;
+  border-color: orange;
+  text-indent: 0em;
+  font-family: "source-code-pro",sans-serif;
+  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  letter-spacing: 2px;
+  color: #1a445b !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 70px;
+}
+
+.styled-button2 {
+  background-color: orange;
+  border-radius: 0px;
+  border-color: orange;
+  text-indent: 0em;
+  font-family: "source-code-pro",sans-serif;
+  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  letter-spacing: 2px;
+  color: #1a445b !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 395px;
+}
+
+.styled-button3 {
+  background-color: orange;
+  border-radius: 0px;
+  border-color: orange;
+  text-indent: 0em;
+  font-family: "source-code-pro",sans-serif;
+  font: normal 14pt/1.5em, source-code-pro, sans-serif;
+  letter-spacing: 2px;
+  color: #1a445b !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 220px;
+}
+
+/*centers the logo and title inside the BANNER ROW*/
+.centerbanner {
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width:100%;
+    max-height: 450px;
+}
+
+.jumbotron{
+    position: relative;
+    padding:10px !important;
+    margin-top:70px !important;
+    background: #333333;
+    text-align:center;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    height: 250px;
+    width: 300px;
+}
+
+.specialjumbo{
+    position: absolute;
+    padding:10px !important;
+    margin-top:70px !important;
+    background: #333333;
+    text-align:center;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    height: 575px;
+    width: 300px;
+}
+
+#jumbobanner{
+    position: relative;
+    padding:10px !important;
+    margin-top:70px !important;
+    background: #333333;
+    text-align:center;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    margin-left: -15px;
+    height: 400px;
+    width: 1101px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "cronos-pro-display",sans-serif;
+    font: normal 38pt/1.5em, cronos-pro-display,sans-serif;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: black;
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 0.75em;
+    padding: 10%;
+}
+
+h2 {
+    font-size: 2em;
+    line-height: 0.75em;
+    color: skyblue;
+    background-color: #333333;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 2em;
+    line-height: 0.75em;
+    color: skyblue;
+    padding: 10px;
+}
+
+p { 
+    font-family: "merriweather",serif;
+    font: normal 16pt/1.5em, merriweather, serif;
+    letter-spacing: 2px;
+    color: #43ace8;
+    font-weight: 600;
+}
+
+p::first-line {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p:nth-child(3) {
+    background: #565656;
+    padding: 10px;
+}
+
+ol, ul, li, li a { 
+    font-family: "source-code-pro",sans-serif;
+    font: normal 14pt/1.5em, source-code-pro, sans-serif;
+    letter-spacing: 2px;
+    color: #333333;
+    font-weight: 800;
+}
+
+a {
+    font-family: "merriweather",serif;
+    font: normal 16pt/1.5em, merriweather, serif;
+    letter-spacing: 2px;
+    color: #333333;
+    font-weight: 800;
+}
+
+a:link { color: #666666; text-decoration: none; }
+a:visited { color: #333333; }
+a:hover { text-decoration: underline; }
+a:active { color: #000000; }
+
+blockquote {
+    font-family: "alize",serif;
+    font: normal 38pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: #43ace8;
+    text-indent: 3em;
+    font-weight: 900;
+}
+
+special {
+    font-family: "alize",serif;
+    font: normal 24pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: darkblue;
+    text-indent: 3em!important;
+    font-weight: 600;
+    padding: 10px;
+}
+
+speciali {
+    font-family: "alize",serif;
+    font: normal 24pt/1.5em, alize, serif;
+    letter-spacing: 2px;
+    color: #1a445b;
+    text-indent: 3em;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.indent-text {
+    text-indent: 4em;
+}
+
+.absolute-icon {
+    width: 300px;
+    height: 300px;
+    color: #8A2BE2;
+    font-size: 150px;
+    margin: 0px;
+    margin-top: 50px;
+    top: 50px;
+}
