@@ -36,8 +36,8 @@ footer {
   font-weight: 800;
   text-transform: uppercase;
   margin-top: 70px;
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 .styled-button2 {
@@ -52,8 +52,8 @@ footer {
   font-weight: 800;
   text-transform: uppercase;
   margin-top: 395px;
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 .styled-button3 {
@@ -68,8 +68,8 @@ footer {
   font-weight: 800;
   text-transform: uppercase;
   margin-top: 220px;
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 /*centers the logo and title inside the BANNER ROW*/
@@ -89,7 +89,7 @@ footer {
     background: #333333;
     text-align:center;
     margin-bottom: 0 !important;
-    border-radius: 0 !important;
+    border-radius: 4px !important;
     height: 250px;
     width: 300px;
 }
@@ -101,7 +101,7 @@ footer {
     background: #333333;
     text-align:center;
     margin-bottom: 0 !important;
-    border-radius: 0 !important;
+    border-radius: 4px !important;
     height: 575px;
     width: 300px;
 }
@@ -113,7 +113,7 @@ footer {
     background: #333333;
     text-align:center;
     margin-bottom: 0 !important;
-    border-radius: 0 !important;
+    border-radius: 4px !important;
     margin-left: -15px;
     height: 400px;
     width: 1101px;
