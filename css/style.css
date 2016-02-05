@@ -181,8 +181,8 @@ a:hover { text-decoration: underline; }
 a:active { color: #000000; }
 
 blockquote {
-    font-family: "alize",serif;
-    font: normal 38pt/1.5em, alize, serif;
+    font-family: "cronos-pro-display",serif;
+    font: normal 16pt/1.5em, cronos-pro-display,sans-serif;
     letter-spacing: 2px;
     color: #43ace8;
     text-indent: 3em;
@@ -190,8 +190,8 @@ blockquote {
 }
 
 special {
-    font-family: "alize",serif;
-    font: normal 36pt/1.5em, alize, serif;
+    font-family: "cronos-pro-display",serif;
+    font: normal 16pt/1.5em, cronos-pro-display,sans-serif;
     letter-spacing: 2px;
     color: #43ace8;
     text-indent: 3em!important;
@@ -199,8 +199,8 @@ special {
 }
 
 speciali {
-    font-family: "alize",serif;
-    font: normal 34pt/1.5em, alize, serif;
+    font-family: "cronos-pro-display",serif;
+    font: normal 16pt/1.5em, cronos-pro-display,sans-serif;
     letter-spacing: 2px;
     color: #43ace8;
     text-indent: 3em;
