@@ -143,11 +143,12 @@ h3 {
 }
 
 p { 
-    font-family: "merriweather",serif;
-    font: normal 16pt/1.5em, merriweather, serif;
+    font-family: "cronos-pro-display",serif;
+    font: normal 16pt/1.5em, cronos-pro-display,sans-serif;
     letter-spacing: 2px;
     color: #43ace8;
-    font-weight: 600;
+    font-weight: 300;
+    font-style: italic
 }
 
 p::first-line {
@@ -169,11 +170,12 @@ ol, ul, li, li a {
 }
 
 a {
-    font-family: "merriweather",serif;
-    font: normal 16pt/1.5em, merriweather, serif;
+    font-family: "cronos-pro-display",serif;
+    font: normal 16pt/1.5em, cronos-pro-display,sans-serif;
     letter-spacing: 2px;
     color: #333333;
-    font-weight: 800;
+    font-weight: 300;
+    font-style: italic
 }
 
 a:link { color: #666666; text-decoration: none; }
