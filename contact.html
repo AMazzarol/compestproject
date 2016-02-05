@@ -187,31 +187,37 @@
                 <form name="sentMessage" id="contactForm" novalidate>
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label>Full Name:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <label>Enter your first name</label>
+                            <input type="text" class="form-control" id="fname" required data-validation-required-message="Please enter your first name.">
                         </div>
                     </div>
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label>Phone Number:</label>
+                            <label>Enter your last name</label>
+                            <input type="text" class="form-control" id="lname" required data-validation-required-message="Please enter your last name.">
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Enter your phone number</label>
                             <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
                         </div>
                     </div>
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label>Email Address:</label>
+                            <label>Enter your email address</label>
                             <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
                         </div>
                     </div>
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label>Message:</label>
+                            <label>Enter your message below</label>
                             <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
                         </div>
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button type="submit" class="btn btn-primary">Get in touch!</button>
                 </form>
             </div>
         </div>
